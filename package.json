@@ -1,0 +1,22 @@
+{
+  "name": "itc298",
+  "version": "1.0.0",
+  "description": "Test for Assignment 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programMike/itc298-s16.git"
+  },
+  "keywords": [
+    "itc298"
+  ],
+  "author": "Mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programMike/itc298-s16/issues"
+  },
+  "homepage": "https://github.com/programMike/itc298-s16#readme"
+}
